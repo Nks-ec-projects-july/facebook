@@ -1,2 +1,1 @@
-Hello This Ile contain Deployment Script..
-Hello this line is updated.
+Hello This Ile contain Deployment Script...
